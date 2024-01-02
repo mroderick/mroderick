@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mroderick
 - 👀 I’m interested in cooking and photography
 - 🌱 I’m currently learning how to be a good manager
-- 💞️ I’m looking to collaborate on JavaScript, progressive enhancement web apps
+- 💞️ I’m looking to collaborate on JavaScript, progressive enhancement web apps and interesting server side projects
 - 📫 morgan@roderick.dk
 
 <!---
